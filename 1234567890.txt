@@ -1,0 +1,5 @@
+1000
+NAME    : Rishi
+MOBILE  : 1234567890
+BALANCE : Rs. 2500
+
